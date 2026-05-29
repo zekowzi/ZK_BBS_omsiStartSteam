@@ -9,4 +9,4 @@ Via ce système de lancement manuel, cela permettra à OMSI de se lancer avec le
 - Démarrage en tant qu'Administrateur
 
 **Aucune licence pour ce fichier étant donné que c'est un fichier vide.**
-- Kowzii (iwxbe) - 2026
+Kowzii (iwxbe) - 2026
