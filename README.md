@@ -9,5 +9,6 @@ Via ce système de lancement manuel, cela permettra à OMSI de se lancer avec le
 - Désactivation des optimisations en plein écran (lorsque vous utilisez Vulkan au lieu de Direct X)
 - Démarrage en tant qu'Administrateur
 
-**Aucune licence pour ce fichier étant donné que c'est un fichier vide.**
-Kowzii (iwxbe) - 2026
+
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
